@@ -1,0 +1,25 @@
+Project Title: Bank Loan Analysis
+
+Description: The project involved comprehensive analysis of bank loans, encompassing data manipulation and calculations using SQL. Subsequently, three dynamic dashboards were created in Power BI leveraging advanced DAX functions for deeper insights and intuitive visualization.
+
+Key Tasks:
+
+Data Manipulation and Calculations in SQL:
+• Conducted intricate data manipulation tasks to prepare the dataset for analysis.
+• Utilized SQL queries to perform complex calculations, ensuring accuracy and efficiency in data processing.
+
+Dashboard Creation in Power BI:
+• Developed three interactive dashboards in Power BI to visualize loan data effectively.
+• Employed advanced DAX functions to derive meaningful insights and enhance dashboard interactivity.
+• Ensured coherence and user-friendliness in dashboard design for seamless navigation and comprehension.
+
+Analysis and Interpretation:
+• Conducted thorough analysis of loan data trends, patterns, and performance metrics.
+• Extracted actionable insights to support decision-making processes for loan management and optimization.
+• Presented findings through compelling visualizations and clear narratives in Power BI dashboards.
+
+Outcome:
+The project resulted in a comprehensive understanding of bank loan dynamics, facilitating informed decision-making and strategic planning.
+The Power BI dashboards provided stakeholders with intuitive tools to explore loan data, leading to improved efficiency and effectiveness in loan management processes.
+Overall, the project demonstrated proficiency in both SQL and Power BI, showcasing the ability to transform raw data into actionable insights through advanced analytics and visualization techniques.
+

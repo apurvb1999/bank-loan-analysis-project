@@ -1,0 +1,37 @@
+Hey Everyone,😊 
+» I am happy to share my recent Project, titled " Bank loan Analysis". This Project data contain bank loan data. 
+
+» This dashboard allows you to Analyze how good loans and bad loans affects on business.
+ 
+►Project :"Bank Loan Analysis"
+
+►Tool Used:
+➼ Power BI and Sql
+
+►Project dashboard includes:-
+➼ Sheet 1: Summary 
+➼ Sheet 2: Overview
+➼ Sheet 3: Details
+
+► Insights of the Project:
+
+1] Total loan applications received: 
+» Total 38.6k applications received
+» Month to date applications (MTD) 4.3k.
+
+2] Total funded amount:
+» $435.8M fund disbursed to the customers. 
+
+3] Total received amount:
+» $473.1M is the total amount received.
+
+4] Good vs Bad loans:
+» 86.2% Good loan issued 
+» 13.8% Bad loan issued
+
+5] Regional analysis:
+» There seems to be most applicants are from north america
+
+6] Purpose of loan:
+» most of the applicants took loan for debt consolidation
+
